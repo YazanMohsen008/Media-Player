@@ -1,0 +1,77 @@
+* [33mcommit aba08646333cbdb4f35a9009fc16da21dc879e85[m[33m ([m[1;32mmaster[m[33m)[m
+[31m|[m Author: josephKalash <39829281+josefKalash@users.noreply.github.com>
+[31m|[m Date:   Sun Jun 21 23:38:26 2020 +0300
+[31m|[m 
+[31m|[m     add mp3 classes
+[31m|[m 
+* [33mcommit 979f6a691fda0bedb98fdc41f50cede52b58e674[m
+[31m|[m Author: josephKalash <39829281+josefKalash@users.noreply.github.com>
+[31m|[m Date:   Sun Jun 21 23:37:27 2020 +0300
+[31m|[m 
+[31m|[m     add mp3Package and classes
+[31m|[m   
+[31m|[m * [33mcommit 0be940692f22a390ab8ef12f06232067e488630e[m[33m ([m[1;36mHEAD -> [m[1;32monActivity[m[33m)[m
+[31m|[m[31m/[m  Author: josephKalash <39829281+josefKalash@users.noreply.github.com>
+[31m|[m   Date:   Sun Jun 21 23:07:08 2020 +0300
+[31m|[m   
+[31m|[m       added tabbed activity in its onCreate there is code for recyclerVier and adapter and rtReader obj and there also other methods for permission only and StorageReader class to read from storage and added recycleAdapter and recyclerView and in mainActivity_layout there is code about scroll and recyclerView need to put them in correct place
+[31m|[m 
+* [33mcommit 115ac92521e69c1906d6d3e33630c2e271df9611[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[32m|[m Author: baselalbadish <baselalbadish@gmail.com>
+[32m|[m Date:   Sun Jun 21 14:35:35 2020 +0300
+[32m|[m 
+[32m|[m     ContainerManager
+[32m|[m 
+* [33mcommit bff1d24a525b5ed6897e5171dc74e08237add3c2[m
+[32m|[m Author: baselalbadish <baselalbadish@gmail.com>
+[32m|[m Date:   Sun Jun 21 13:54:56 2020 +0300
+[32m|[m 
+[32m|[m     Data Class
+[32m|[m 
+* [33mcommit 3a39e10ce0178f5a44f7455cd320e5953b0b2ddc[m
+[32m|[m Author: baselalbadish <baselalbadish@gmail.com>
+[32m|[m Date:   Sun Jun 21 01:03:08 2020 +0300
+[32m|[m 
+[32m|[m     Containers
+[32m|[m 
+* [33mcommit e4a0ecf5519001b71b22bd8ec05af8cd4af46567[m
+[32m|[m Author: baselalbadish <baselalbadish@gmail.com>
+[32m|[m Date:   Sun Jun 21 00:31:51 2020 +0300
+[32m|[m 
+[32m|[m     waveFrame & PlayList methods
+[32m|[m 
+* [33mcommit 596a43ab48d6707f9efab462d9971a61c656538b[m
+[32m|[m Author: Yazan Aamer <yazan.aamer@outlook.com>
+[32m|[m Date:   Thu Jun 18 17:01:22 2020 +0300
+[32m|[m 
+[32m|[m     Initial Commit B
+[32m|[m 
+* [33mcommit 9b168eb4d47ac472b218fd5b0d0930cff526a9b6[m
+[32m|[m Author: josephKalash <39829281+josefKalash@users.noreply.github.com>
+[32m|[m Date:   Wed Jun 17 13:28:40 2020 +0300
+[32m|[m 
+[32m|[m     привет
+[32m|[m 
+* [33mcommit 044e7ff37b6f810ea3c03a4e832e9982e3b8dad1[m
+[32m|[m Author: baselalbadish <baselalbadish@gmail.com>
+[32m|[m Date:   Wed Jun 17 11:54:40 2020 +0300
+[32m|[m 
+[32m|[m     basel
+[32m|[m 
+* [33mcommit 4169f8e9a72e1cec7dfe44401dab65a983afb9b4[m
+[32m|[m Author: YazanMohsen008 <YazanMohsen008@gmail.com>
+[32m|[m Date:   Wed Jun 10 09:29:31 2020 +0300
+[32m|[m 
+[32m|[m     Data
+[32m|[m 
+* [33mcommit 660d33eeaf0ff09f1d75a0e41b8b9e5d7b845d97[m
+[32m|[m Author: YazanMohsen008 <YazanMohsen008@gmail.com>
+[32m|[m Date:   Tue Jun 9 11:23:31 2020 +0300
+[32m|[m 
+[32m|[m     Yzn Commit
+[32m|[m 
+* [33mcommit 5ef204409d18e78cda3d78cfb2c18379adc187f6[m
+  Author: Yazan111 <yazan.aamer@outlook.com>
+  Date:   Sun Jun 7 14:58:47 2020 +0300
+  
+      Initial commit

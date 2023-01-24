@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Luma Player</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="_0_00">0:00</string>
+    <string name="unknown">unknown</string>
+</resources>
